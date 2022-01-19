@@ -1,6 +1,7 @@
 D
-dddd
+windows
 dddddd
 aaa
 hello
 software
+linux
