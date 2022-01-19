@@ -1,7 +1,6 @@
-C
-This is Computer.
-I study chitrlada
-SoftDev2
-<<<<<<<<<<<"Hello World"
-GItGIt
->>>>>>>>>>>"HellO"
+MacOS
+Msi
+AcerAsus
+Huawei
+Apple
+Hp
