@@ -1,5 +1,5 @@
 C
-I love Program
+I love King
 I study chitrlada
 SoftDev2
 <<<<<<<<<<<"Hello World"
