@@ -1,6 +1,5 @@
 D
-hello
-dddddd
+
 aaa
 hello
 software
